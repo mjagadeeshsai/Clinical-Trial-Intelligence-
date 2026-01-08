@@ -1,0 +1,6 @@
+
+langchain>=0.2.2
+openai
+faiss-cpu
+sentence-transformers
+python-dotenv
